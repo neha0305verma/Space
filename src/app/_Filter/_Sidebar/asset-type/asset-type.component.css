@@ -1,0 +1,12 @@
+.assest-type .head{
+    margin: 2px;
+}
+.assest-btn{
+    background-color: #fff;
+    border-radius: 30px;
+    border:none;
+}
+
+.assest-btn:hover{
+    background-color: #FF8156;
+}
