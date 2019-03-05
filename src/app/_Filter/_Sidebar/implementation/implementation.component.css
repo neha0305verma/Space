@@ -1,7 +1,3 @@
-.implementation h4{
-    margin: 0px 20px;
-}
- 
 .imp-list .content h6:hover {
     background-color: #FF8156;
     color:#fff;
@@ -14,8 +10,10 @@
 h6 {
     font-family: 'Source Sans Pro', sans-serif;
     color:#212529;
-    padding: 5px 5px;
 }
 .content .fa{
     color:#F7F8Fc;
+}
+.fa-minus{
+    color:#D6D6D8;
 }

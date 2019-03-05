@@ -1,12 +1,13 @@
-.assest-type .head{
-    margin: 2px;
-}
 .assest-btn{
     background-color: #fff;
     border-radius: 30px;
     border:none;
+    outline:none;
 }
 
 .assest-btn:hover{
     background-color: #FF8156;
+}
+.fa-minus{
+    color:#D6D6D8
 }

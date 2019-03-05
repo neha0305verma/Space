@@ -4,10 +4,16 @@
 .sidebar-top{
     background-color:#ececec;
 }
+.row{
+    margin-right: 0px;
+    margin-left: 0px;
+    border-bottom:2px solid #D6D6D8;
+}
 .sidebar-reset button{
     color:#177afa;
     border:none;
     background-color: #ececec;
+    outline: none;
 }
 .sidebar-head{
     color:#000;
