@@ -1,0 +1,22 @@
+.filter-navbar{
+    background-color:#fff;    
+}
+.nav-search{
+    background-color: #D1D1D1;
+    border-radius: 30px;
+}
+.nav-input{
+    outline:none;
+    border:none;
+    background-color: #D1D1D1;
+}
+.btn-navbar{
+    outline:none;
+    border:none;
+    background-color: #FF8156;
+    border-radius: 30px;
+    color:#fff;
+}
+.filter-navbar .fa-search{
+    color:#A7A7A7;
+}

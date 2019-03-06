@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./card-body.component.css']
 })
 export class CardBodyComponent implements OnInit {
-
+  cards = ["card1","card3","card3","card4","card5","card6"];
   constructor() { }
 
   ngOnInit() {

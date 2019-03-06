@@ -1,6 +1,11 @@
 .filter-sidebar{
     padding-right: 0px;
+    padding-left:25px;
 }
 .filter-mainbody{
     padding-left: 0px;
+    background-color: #EDEDED;
+}
+.filter-mainbody .col-12{
+    padding-right:0px;
 }
